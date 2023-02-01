@@ -1,4 +1,5 @@
-### Olá! Eu sou Levi 👋🏻
+### Olá, Me chamo Levi e seja muito bem vindo ao meu perfil!
+Sou Desenvolvedor Web Front-End. Fique a vontade para ver meus repositórios, baixar e fazer alterações.
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://levil9490.github.io/portfolio-levi-lima/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levil.ma/)
